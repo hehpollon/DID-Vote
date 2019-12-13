@@ -1,0 +1,22 @@
+{
+  "name": "ballot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caver-js": "^1.2.1",
+    "configparser": "^0.3.6",
+    "ethers": "^4.0.39",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
